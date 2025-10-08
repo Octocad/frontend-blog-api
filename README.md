@@ -3,6 +3,9 @@
 
 Cliente frontend para um Blog simples, construído com React + Vite + Tailwind.
 
+#Video do Projeto:
+https://youtu.be/SMHJrL2qS4Q
+
 Este repositório contém a interface para listar, criar, editar, visualizar e deletar posts. O frontend espera que exista um backend rodando com endpoints REST para posts (ver `src/services/api.ts`).
 
 Funcionalidades
